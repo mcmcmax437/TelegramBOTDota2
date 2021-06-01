@@ -1,0 +1,7 @@
+C:\Users\mcmcm\source\repos\Telegram\bin\Release\net5.0\publish\Telegram.exe
+C:\Users\mcmcm\source\repos\Telegram\bin\Release\net5.0\publish\Telegram.dll
+C:\Users\mcmcm\source\repos\Telegram\bin\Release\net5.0\publish\Telegram.deps.json
+C:\Users\mcmcm\source\repos\Telegram\bin\Release\net5.0\publish\Telegram.runtimeconfig.json
+C:\Users\mcmcm\source\repos\Telegram\bin\Release\net5.0\publish\Telegram.pdb
+C:\Users\mcmcm\source\repos\Telegram\bin\Release\net5.0\publish\Newtonsoft.Json.dll
+C:\Users\mcmcm\source\repos\Telegram\bin\Release\net5.0\publish\Telegram.Bot.dll
